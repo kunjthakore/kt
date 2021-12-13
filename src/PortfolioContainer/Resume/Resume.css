@@ -233,7 +233,11 @@
     .selected-bullet {
       width: 100%;
     }
-    
+    .main_div {
+      display: flex;
+      text-align:center;
+      position: relative;
+    }
   }
 
   .main_div {
