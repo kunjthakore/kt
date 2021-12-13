@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.d1372906.chunk.css",
+    "main.js": "/my-app/static/js/main.b55d9bcd.chunk.js",
+    "main.js.map": "/my-app/static/js/main.b55d9bcd.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.d4e05823.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.d4e05823.js.map",
+    "static/js/2.babe6a5a.chunk.js": "/my-app/static/js/2.babe6a5a.chunk.js",
+    "static/js/2.babe6a5a.chunk.js.map": "/my-app/static/js/2.babe6a5a.chunk.js.map",
+    "static/js/3.fd6c82f9.chunk.js": "/my-app/static/js/3.fd6c82f9.chunk.js",
+    "static/js/3.fd6c82f9.chunk.js.map": "/my-app/static/js/3.fd6c82f9.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "static/css/main.d1372906.chunk.css.map": "/my-app/static/css/main.d1372906.chunk.css.map",
+    "static/js/2.babe6a5a.chunk.js.LICENSE.txt": "/my-app/static/js/2.babe6a5a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/my-app/static/media/Poppins-Thin.a61eaf4c.ttf",
+    "static/media/education.svg": "/my-app/static/media/education.10cfa28a.svg",
+    "static/media/interests.svg": "/my-app/static/media/interests.809890a3.svg",
+    "static/media/Profile.css": "/my-app/static/media/me.eea4a048.JPG",
+    "static/media/AboutMe.css": "/my-app/static/media/photo.1772795f.jpg",
+    "static/media/programming-skills.svg": "/my-app/static/media/programming-skills.d19983a9.svg",
+    "static/media/projects.svg": "/my-app/static/media/projects.2b352a52.svg",
+    "static/media/work-history.svg": "/my-app/static/media/work-history.a566475d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4e05823.js",
+    "static/js/2.babe6a5a.chunk.js",
+    "static/css/main.d1372906.chunk.css",
+    "static/js/main.b55d9bcd.chunk.js"
+  ]
+}
