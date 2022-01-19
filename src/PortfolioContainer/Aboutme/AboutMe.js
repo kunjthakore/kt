@@ -19,11 +19,12 @@ const AboutMe = (props) => {
         highlights: {
             heading: "Here are a Few Highlights:",
             bullets: [
-                "React web and development",
+                "Django web development",
                 "Interactive Front End as per the design",
-                "React.js and Node.js",
+                "MongoDB",
                 "HTML & CSS",         
-                "Managing database",
+                "Backend Development",
+                "RestFul API",
            ],
            
         }
